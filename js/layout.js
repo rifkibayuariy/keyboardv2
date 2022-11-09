@@ -91,7 +91,7 @@ var keyboard = {
         { keyCode: 99, location: 3, size: 1, key: "3", right: 0 },
         { keyCode: 13, location: 3, size: 1, key: "enter", right: 0 },
         { keyCode: 17, location: 1, size: 1.25, key: "ctrl", right: 0 },
-        { keyCode: 91, location: 0, size: 1.25, key: "meta", right: 0 },
+        { keyCode: 91, location: 1, size: 1.25, key: "meta", right: 0 },
         { keyCode: 18, location: 1, size: 1.25, key: "alt", right: 0 },
         { keyCode: 32, location: 0, size: 6.25, key: "", right: 0 },
         { keyCode: 18, location: 2, size: 1.25, key: "alt", right: 0 },
